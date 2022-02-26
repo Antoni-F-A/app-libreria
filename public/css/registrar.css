@@ -1,0 +1,58 @@
+
+.form-registro {
+    width: 100%;
+    max-width: 70%;
+    padding: 30px;
+    margin: auto;
+    background-color: rgba(240, 235, 235, 0.685);
+    border-radius: 10px;
+}
+
+ .form-registro .perfil{
+    width: 50%;
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.form-registro .titulo{
+    text-align: center;
+    text-shadow: 2px 2px 5px #33636F;
+    color: #33636F;
+}
+/*
+.form-loguin .checkbox {
+    font-weight: 200;
+}
+.form-loguin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-loguin .form-control:focus {
+    z-index: 2;
+}
+.form-loguin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-loguin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.form-loguin .registro{
+    margin-top: 8px;
+    display: flex;
+}
+.form-loguin .registro .registrarse{
+    margin: auto;
+    text-decoration: none;
+}
+
+.form-loguin .copyright{
+    text-align: center;
+} */
